@@ -1,5 +1,5 @@
 {
-    "name": "usstatedept/wpml-url-fix",
+    "name": "iip-design/wpml-url-fix",
     "type": "wordpress-plugin",
     "description" : "A WordPress plugin to resolve a URL issue with the WPML language switcher when the WPML plugin is active.",
     "authors": [
