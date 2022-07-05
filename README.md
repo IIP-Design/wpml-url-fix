@@ -1,9 +1,17 @@
+# :warning: THIS REPO HAS BEEN ARCHIVED :warning:
+
+This WordPress plugin was written to enhance the performance of the WPML language switcher on the ShareAmerica site. This site has since been transitioned to another team for maintenance. As such, this repository has been archived and is no longer being maintained. The code is preserved here as a reference.
+
+---
+
 # WPML URL Fix
+
 A WordPress plugin to resolve a URL issue with the WPML language switcher when the WPML plugin is active.
 
 This is a companion plugin to the WPML plugin that ties into the icl_ls_languages hook.
 
-##DETAILS
+## DETAILS
+
 Plugin Name: WPML URL Fix
 
 Description: A WordPress plugin to resolve a URL issue with the WPML language switcher when the WPML plugin is active.
@@ -12,7 +20,8 @@ Author: Scott Gustas
 
 Version: 1.0.0
 
-##LICENSE
+## LICENSE
+
 This project constitutes a work of the United States Government and is not subject to domestic copyright protection under 17 USC § 105.
 
 However, because the project utilizes code licensed from contributors and other third parties, it therefore is licensed under the MIT License. http://opensource.org/licenses/mit-license.php. Under that license, permission is granted free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the conditions that any appropriate copyright notices and this permission notice are included in all copies or substantial portions of the Software.
